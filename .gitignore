@@ -1,0 +1,7 @@
+# no .db or .log files
+*.db
+*.log
+
+#no target or bin named directories anywhere
+bin/
+target/
